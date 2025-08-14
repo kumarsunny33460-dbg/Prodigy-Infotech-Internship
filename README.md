@@ -17,6 +17,12 @@ The task was assigned as part of my internship at **Prodigy Infotech** to explor
 ---
 
 ## 📂 Project Structure
+.
+├── task01.py / task01.ipynb   # Main script or notebook
+├── dataset/                   # Dataset used for fine-tuning (if shareable)
+├── outputs/                   # Model outputs & generated text
+├── screenshots/               # Code screenshots
+└── README.md                  # Project documentation
 
 
 
@@ -46,6 +52,9 @@ The task was assigned as part of my internship at **Prodigy Infotech** to explor
 ---
 
 ## 📜 Sample Outputs
+prompt:In the future
+output:In the future, technology will advance at an unprecedented pace, reshaping human life...
+
 
 
 ---
